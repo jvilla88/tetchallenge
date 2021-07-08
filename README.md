@@ -1,6 +1,6 @@
 # Profiles REST API
 
-** 1.- Uncompress file .zip un any directory (Linux/MacOs enviroment)
+** 1.- Download and Uncompress file .zip un any directory (Linux/MacOs enviroment)
 
 ** 2.- Access to folder testchallenge and type command % docker-conmpose up
 
